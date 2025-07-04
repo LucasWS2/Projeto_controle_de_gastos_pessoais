@@ -37,3 +37,8 @@ Este projeto é uma excelente introdução prática aos seguintes conceitos:
 ---
 
 Este é um projeto ideal para quem está estudando Python e quer desenvolver algo que seja útil, funcional e que pode servir como base para sistemas mais avançados no futuro.
+
+---
+
+## 🧑‍💻 Autor
+Lucas Agostinho Wszoek
